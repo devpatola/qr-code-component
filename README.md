@@ -29,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-tailwind-css-abzKtOE3gx)
 - Live Site URL: [Vercel](https://qr-code-component-five-opal.vercel.app/)
 
 ## My process
